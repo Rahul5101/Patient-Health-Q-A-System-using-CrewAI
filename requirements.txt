@@ -1,0 +1,10 @@
+python-dotenv
+pydantic
+langchain-core
+langchain-community
+langchain-openai
+crewai
+typing
+streamlit
+langfuse
+langsmith
